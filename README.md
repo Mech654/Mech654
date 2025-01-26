@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+Hiya, 17 y.o IT student here, aspiring backend developer. Anyways lets skip this part-
+
 <!--
 **Mech654/Mech654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on:
+  - WebPulse - A neat useful(definetly objective) software for holding track of your media releases.
+
+To learn list:
+  - MongoDB
+  - React
+
+wanna contribute?
+  - Fetch, Push, Request! Simple, no redlines(or yellow). Aslong as your code is superior to mine, count it merged!😉
+
+Contact:
+  - Drahmet2007@hotmail.com
+
+😄 Pronouns: Just/Better
