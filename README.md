@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 🔭 I’m currently working on:
   - WebPulse - A neat useful(definetly objective) software for holding track of your media releases.
 
+
+Currently learning:
+ - Wpf
+ - Three.js
+
 To learn list:
   - MongoDB
   - React
