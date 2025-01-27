@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 Currently learning:
  - Wpf
- - Three.js
+ - Blender
 
 To learn list:
+  - Three.js
   - MongoDB
   - React
 
