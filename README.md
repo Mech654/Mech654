@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👌
 
 
 Hiya, 17 y.o IT student here, aspiring backend developer. Anyways lets skip this part-
