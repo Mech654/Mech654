@@ -88,9 +88,9 @@ Hiya, 17 y.o IT student here, aspiring backend developer. Anyways lets skip this
 
 
 Currently learning:
- - Wpf
+ - PostgreSQL
  - Blender
- - React/Next.js
+ - Electron
 
 To learn list:
   - Three.js
