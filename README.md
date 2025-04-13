@@ -84,7 +84,7 @@ Hiya, 17 y.o IT student here, aspiring backend developer. Anyways lets skip this
 
 
 🔭 I’m currently working on:
-  - WebPulse - A neat useful(definetly objective) software for holding track of your media releases.
+  - VisualBotCrafter - A highly flexible bot crafting software with a visual craftboard.
 
 
 Currently learning:
