@@ -106,8 +106,7 @@ Contact:
   Pro
 Gamer/Grammer
 
-Contributions:
-If you're looking for a place to contribute—whether to practice your skills or assist a fellow developer—[WebPulse](https://github.com/Mech654/WebPulse) is currently seeking extra hands. Join us and make an impact!
+
 
 
 
