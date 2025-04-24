@@ -88,13 +88,14 @@ Hiya, 17 y.o IT student here, aspiring backend developer. Anyways lets skip this
 
 
 Currently learning:
- - PostgreSQL
- - Blender
  - Electron
+ - Three.js
 
 To learn list:
-  - Three.js
   - MongoDB
+
+Visit portfolio at:
+  https://mech654.github.io/PortfolioWeb/
 
 wanna contribute?
   - Fetch, Push, Request! Simple, no redlines(or yellow). Aslong as your code is superior to mine, count it merged!😉
