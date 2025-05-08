@@ -30,7 +30,7 @@ I share because we all start somewhere.
 - I value real-life solutions that are scalable and efficient.
 - Perfection is a horizon: visible, unreachable, yet still worth chasing.
 - Good code is read like poetry and built like architecture.
-- In a world of trends, dare to be timeless.
+- Sometimes to see more, you must see less.
 
 ---
 
