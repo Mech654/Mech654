@@ -25,15 +25,6 @@ I share because we all start somewhere.
 
 ---
 
-### ✨ Philosophies I Live By:
-
-- I value real-life solutions that are scalable and efficient.
-- Perfection is a horizon: visible, unreachable, yet still worth chasing.
-- Good code is read like poetry and built like architecture.
-- Sometimes to see more, you must see less.
-
----
-
 ### 📜 Want to Contribute?
 
 - **Fetch. Push. Request.**
