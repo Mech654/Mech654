@@ -1,6 +1,6 @@
-## Hello, traveler 👋
+## Hello,  ${name} 👋
 
-> *"The journey matters more than the destination."*
+
 
 ---
 
@@ -19,7 +19,7 @@ I share because we all start somewhere.
 
 ---
 
-### 🌌 Current Expedition:
+### 🌌 Current project(s):
 
 - **VisualBotCrafter** — A modular, visual bot crafting platform for those who value automation.
 
